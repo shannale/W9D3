@@ -4,7 +4,8 @@
 
 [Live Demo]: https://aa-twitter-ajax.herokuapp.com/
 
-## Phase 1: `FollowToggle`
+
+## Phase 1: `FollowToggle` no need for this, looks good without
 
 You will start by filling out the `FollowToggle` component, which takes a
 provided follow/unfollow toggle button. When you click the button, the
